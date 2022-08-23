@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FScanR"]
+	path = FScanR
+	url = https://github.com/seanchen607/fscanr
+	shallow = true
+	registered = true
